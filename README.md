@@ -1,5 +1,6 @@
 # Certification-Study-Guides
-Personal collection of study guides for industry cetifications.
+
+Personal collection of study guides for industry cetifications. Feel free to make pull requests to add your own study guides and such.
 
 ## Study Guides
 
