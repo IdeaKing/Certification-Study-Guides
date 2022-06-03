@@ -7,3 +7,4 @@ Personal collection of study guides for industry cetifications. Feel free to mak
 ### Cloud Computing
 
 4/2022 - AZ-900 Study Guide (Azure Cloud Practitioner) 
+5/2022 - SC-900
